@@ -389,13 +389,13 @@ img {
 .footer {
   display: flex;
   background: #2c70ff;
-  height: 200px;
+  height: 100px;
   align-items: center;
 }
 
 .footer p {
   flex: 1;
   text-align: center;
-  font-size: 2.25em;
+  font-size: 1.5em;
   color:#122ab2
 }
