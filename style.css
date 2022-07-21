@@ -181,7 +181,7 @@ img {
 
 .preco {
   background: #f7f7f7;
-  padding: 60px;
+  padding: 60px 300px;
   display: flex;
   flex-wrap: wrap;
   align-items: flex-end;
@@ -254,7 +254,7 @@ img {
   text-align: center;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1460px) {
   .preco {
     padding-left: 10px;
     padding-right: 10px;
